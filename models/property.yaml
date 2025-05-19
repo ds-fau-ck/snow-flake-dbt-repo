@@ -1,0 +1,7 @@
+models:
+  - name: faudskul
+    config:
+      materialized: 'table'
+  - name: tuchemnitz
+    config:
+      materialized: 'view'
