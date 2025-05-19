@@ -1,0 +1,1 @@
+select * FROM {{source("kul sources","USERS")}}
