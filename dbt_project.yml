@@ -1,5 +1,5 @@
 name: "dbt_first_project"
 macro-paths: ["models"]
-models:
-  materialized: 'table'
+seed-paths: ["seeds"]
+
 
