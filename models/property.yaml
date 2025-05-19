@@ -1,3 +1,11 @@
+sources:
+  - name: "kul sources"
+    database: FAUDB_ECOM
+    schema: SC_ECOM
+    tables: 
+      - name: USERS
+
+
 models:
   - name: faudskul
     config:
