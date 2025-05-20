@@ -1,1 +1,1 @@
-select * FROM {{ref("country_code")}}
+select * FROM {{ref("faudskul")}}

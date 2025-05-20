@@ -1,5 +1,7 @@
 name: "dbt_first_project"
 macro-paths: ["models"]
-seed-paths: ["seeds"]
+seed-paths: ["custom_seeds"]
+analysis-paths: ["analysis"]
+
 
 
