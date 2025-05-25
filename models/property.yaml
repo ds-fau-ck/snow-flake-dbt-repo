@@ -4,6 +4,7 @@ sources:
     schema: SC_ECOM
     tables: 
       - name: USERS
+      - name: PERSION_SALES
 
 
 models:

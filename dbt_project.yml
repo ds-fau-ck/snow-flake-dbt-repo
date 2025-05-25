@@ -1,7 +1,9 @@
+version: 2.0.0
 name: "dbt_first_project"
-macro-paths: ["models"]
+model-paths: ["models"]
 seed-paths: ["custom_seeds"]
 analysis-paths: ["analysis"]
+macro-paths: ["macros"]
 
 
 
